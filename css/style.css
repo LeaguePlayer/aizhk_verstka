@@ -451,20 +451,13 @@ footer {
     padding-left: 55px;
     background: url(/img/government.png) no-repeat 0px center; }
 
-.steps_wrap .shadow {
-  position: absolute;
-  bottom: 0px;
-  width: 100%;
-  z-index: 10;
-  display: none; }
-
 .top_steps {
   width: 100%;
   z-index: 10;
   top: 0px;
   height: 90px;
   bottom: -16px;
-  box-shadow: 10px 10px 10px white; }
+  text-align: center; }
   .top_steps .progress {
     height: 73px;
     width: 820px;
